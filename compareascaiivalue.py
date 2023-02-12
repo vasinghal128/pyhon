@@ -1,0 +1,6 @@
+char1 = str(input("Enter the lowerlatter"))
+char2 = str(input("Enter the upperlatter"))
+print(char1, '\t', ord(char1))
+print(char2, '\t', ord(char2))
+print(ord(char1), '-', ord(char2), '=', end='')
+print(ord(char1) - ord(char2))

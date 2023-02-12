@@ -1,0 +1,8 @@
+print(format(20, "10x"))
+print(format(20, "20x"))
+print(format(123456, "10d"))
+print(format(123456, "100d"))
+print(format(3.1, "10.8%"))
+print(format(1.765, "20.9%"))
+print(format(31.2345, "30.5e"))
+print(format(4235.75943, "30.12e"))
